@@ -32,7 +32,7 @@ const Index = () => {
       color: "bg-yellow-500/20 text-yellow-600"
     },
     {
-      title: "用户画像1",
+      title: "用户画像",
       description: "构建5类典型用户画像和使用场景",
       icon: <Users2 className="h-6 w-6" />,
       color: "bg-amber-500/20 text-amber-600"
